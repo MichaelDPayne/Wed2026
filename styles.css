@@ -1,6 +1,6 @@
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Snell Roundhand', cursive;
     text-align: center;
 }
 
@@ -47,21 +47,21 @@ td {
 /* Navbar Classes */
 
 .navbar a {
-    color: mediumpurple;
+    color: sandybrown;
 }
 
     .navbar a:hover {
-        color: plum;
+        color: tan;
     }
 
 .navbar-toggler {
-    color: mediumpurple;
+    color: sandybrown;
 }
 
 /* Features Classes */
 
 .featicon {
-    color: mediumpurple;
+    color: sandybrown;
     position: static;
     z-index: 2;
 }
@@ -107,14 +107,14 @@ td {
 /* Navbar Id's */
 
 #brand {
-    font-family: 'Russo One', sans-serif;
+    font-family: 'Snell Roundhand', cursive;
     font-size: 2rem;
 }
 
 /* Call to Action Section Id's */
 
 #cta {
-    background-color: powderblue;
+    background-color: floralwhite;
 }
 
 /* Feature Id's */
@@ -127,7 +127,7 @@ td {
 /* Footer Id's */
 
 #footer {
-    background-color: powderblue;
+    background-color: floralwhite;
 }
 
     #footer a {
@@ -141,19 +141,19 @@ td {
 /* Games Id's*/
 
 #games {
-    background-color: #87c0cd;
+    background-color: #FFFAF0;
 }
 
 /* Tech Id's */
 
 #tech {
-    background-color: #87c0cd;
+    background-color: #FFFAF0;
 }
 
 /* Title Id's */
 
 #title {
-    background-color: powderblue;
+    background-color: floralwhite;
     text-align: left;
 }
 
@@ -171,3 +171,4 @@ td {
         text-align: center;
     }
 }
+

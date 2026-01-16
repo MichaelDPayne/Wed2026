@@ -52,6 +52,8 @@ section {
 .sect {
      background-image: url("NewImages/Background.jpg");
 background-repeat: no-repeat;
+background-size: cover;
+background-posotion: center;
 
 }
 

@@ -23,6 +23,8 @@ td {
 
 /*****************CLASSES*****************/
 
+
+
 .big-heading {
     font-size: 3.5rem;
     line-height: 1.5;
@@ -36,6 +38,11 @@ td {
 .section-heading {
     font-size: 2.5rem;
     padding-bottom: 5%;
+}
+.section-border {
+    border: 10px solid transaparent;
+    padding: 15px;
+    border-image: url(NewImages/Borders.jpg) 30 round;
 }
 
 /* About Classes */
@@ -171,4 +178,5 @@ td {
         text-align: center;
     }
 }
+
 

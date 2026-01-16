@@ -21,9 +21,17 @@ td {
 }
 
 section {
-    border: 10px solid transaparent;
+    border: 10px solid transparent;
     padding: 15px;
-    border-image: url(NewImages/Borders.jpg) 30 round;
+
+    /* explicit longhand for clarity and compatibility */
+    border-image-source: url("NewImages/Borders.jpg");
+    border-image-slice: 30 fill;
+    border-image-width: 10px;
+    border-image-repeat: round;
+
+    /* older WebKit support */
+    -webkit-border-image: url("NewImages/Borders.jpg") 30 fill round;
 }
 
 
@@ -180,6 +188,7 @@ section {
         text-align: center;
     }
 }
+
 
 
 

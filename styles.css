@@ -8,6 +8,12 @@ body {
     background-position: center top;
 }
 
+section {
+
+   background: transparent;
+
+}
+
 button {
     margin: 3%;
 }

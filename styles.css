@@ -143,10 +143,7 @@ td {
 }
 
 /* Call to Action Section Id's */
-
-#cta {
-    background-color: floralwhite;
-}
+
 
 /* Feature Id's */
 
@@ -156,10 +153,7 @@ td {
 }
 
 /* Footer Id's */
-
-#footer {
-    background-color: floralwhite;
-}
+
 
     #footer a {
         padding: 10px 20px;
@@ -171,20 +165,14 @@ td {
 
 /* Games Id's*/
 
-#games {
-    background-color: #FFFAF0;
-}
+
 
 /* Tech Id's */
-
-#tech {
-    background-color: #FFFAF0;
-}
+
 
 /* Title Id's */
 
-#title {
-    background-color: floralwhite;
+#title {
     text-align: left;
 }
 

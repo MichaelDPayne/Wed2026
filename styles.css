@@ -24,6 +24,13 @@ td {
 /*****************CLASSES*****************/
 
 
+.page-bg {
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
 
 .big-heading {
     font-size: 3.5rem;
@@ -41,7 +48,7 @@ td {
     padding-bottom: 5%;
 }
 
-.sect {
+/*.sect {
      background-image: url("NewImages/Background.jpg");
   background-size: 100vw auto;
   background-repeat: no-repeat;
@@ -50,7 +57,7 @@ td {
   display: flex;
   align-items: center;
 
-}
+}*/
 
 
 /* About Classes */

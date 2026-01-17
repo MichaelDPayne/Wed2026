@@ -43,10 +43,9 @@ td {
 
 .sect {
      background-image: url("NewImages/Background.jpg");
-background-repeat: no-repeat;
-background-size: contain;
-background-posotion: center;
-
+  background-size: 100vw auto;
+  background-repeat: no-repeat;
+  background-position: center top;
 }
 
 

@@ -13,22 +13,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    font-size: 1.25rem;
+    font-size: 1.75rem;
 }
 
 td {
     padding: 30px;
 }
-
-section {
-    border: 10px solid transparent;
-    padding: 15px;
-
-    /* explicit longhand for clarity and compatibility */
-    border-image-source: url("NewImages/Borders.jpg");
-
-}
-
+
 
 /*****************CLASSES*****************/
 
@@ -52,7 +43,7 @@ section {
 .sect {
      background-image: url("NewImages/Background.jpg");
 background-repeat: no-repeat;
-background-size: contain;
+background-size: auto;
 background-posotion: center;
 
 }
@@ -178,7 +169,7 @@ background-posotion: center;
 }
 
 #title-img {
-    margin: 5%;
+    margin: auto;
     width: 100%;
 }
 

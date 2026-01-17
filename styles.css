@@ -2,6 +2,10 @@
 body {
     font-family: 'Snell Roundhand', cursive;
     text-align: center;
+    background-image: url("NewImages/Background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center top;
 }
 
 button {
@@ -25,7 +29,7 @@ td {
 
 
 .page-bg {
-  background-image: url("bg.jpg");
+  background-image: url("NewImages/Background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;

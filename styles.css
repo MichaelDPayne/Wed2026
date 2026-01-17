@@ -2,7 +2,6 @@
 body {
     font-family: 'Snell Roundhand', cursive;
     text-align: center;
-    height: 100%;
 }
 
 button {
@@ -35,7 +34,6 @@ td {
 .container-fluid {
     padding: 7% 15%;
     width: 80%;
-    height: 80%;
 }
 
 .section-heading {
